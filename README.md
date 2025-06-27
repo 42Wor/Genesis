@@ -89,7 +89,6 @@ Users seeking to edit the source code of Genesis are encourage to install Genesi
 ```bash
 git clone https://github.com/42Wor/Genesis.git
 cd Genesis
-pip install imageio_ffmpeg-0.6.0-py3-none-manylinux2014_x86_64.whl
 pip install -e ".[dev]"
 ```
 
